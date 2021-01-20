@@ -1,8 +1,8 @@
 # CMPUT404 Project
 
 ## Team members:
-- Haotian Qi
-- Ankush Sharma
-- Jialin Xie 
-- Nav Gill
-- Pengyu Xiong
+Haotian Qi <br/>
+Ankush Sharma <br/>
+Jialin Xie <br/>
+Nav Gill <br/>
+Pengyu Xiong <br/>
